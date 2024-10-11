@@ -5,10 +5,11 @@ I'm a PhD student in molecular biology and bioinformatics at the Bioinformatics 
 - Biochemistry 🧬 and Molecular Biology 🔬.
 - Bioinformatics and Computational Biology 💻.
 - Data science 📊.
+- Physics 🔭.
 
 ## About me
 - **Working as**: predoctoral research assistant, Bioinformatics Unit, CNIO.
-- **Research interests**: biochemistry, transcriptomics, cancer therapeutic heterogeneity, precision oncology, personalized medicine and physics.
+- **Research interests**: biochemistry, transcriptomics, cancer therapeutic heterogeneity, precision oncology and personalized medicine.
 - **Education**: Degree in Biochemistry, MSc in Bioinformatics and Computational Biology.
 - **Location**: Spain
 - **ORCID**: 0009-0008-1585-1138
